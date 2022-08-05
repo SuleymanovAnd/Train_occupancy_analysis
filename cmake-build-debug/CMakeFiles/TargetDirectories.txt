@@ -1,0 +1,3 @@
+E:/SkillboxProject/23_practice/Train_analisis/cmake-build-debug/CMakeFiles/Train_analisis.dir
+E:/SkillboxProject/23_practice/Train_analisis/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/SkillboxProject/23_practice/Train_analisis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
